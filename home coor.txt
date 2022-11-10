@@ -1,0 +1,4 @@
+-540,97,127
+
+nether coor bastion
+222, 80, -387
